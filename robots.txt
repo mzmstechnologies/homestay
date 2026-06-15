@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mzmstechnologies.github.io/homestay/sitemap.xml
